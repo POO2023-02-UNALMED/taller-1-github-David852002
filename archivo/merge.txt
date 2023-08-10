@@ -1,1 +1,6 @@
+
 David, tengo 21 años, espero aprender a programar mejor
+
+Porque no había algun archivo en la carpeta
+
+Porque se puede crear conflictos al momento de hacer el push
